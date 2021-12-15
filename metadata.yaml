@@ -1,5 +1,8 @@
 _repo: Laura-Everingham-or-The-Highlanders-of-Glen-Ora_66808
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66808-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Grant, James
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8949
     wikipedia: https://en.wikipedia.org/wiki/James_Grant_(1822%E2%80%931887)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66808#Laura-Everingham-or-The-Highlanders-of-Glen-Ora
 gutenberg_issued: '2021-11-24'
 identifiers:
   gutenberg: '66808'
